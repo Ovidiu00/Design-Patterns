@@ -1,0 +1,4 @@
+- o factory este folosita pentru crearea altor obiecte
+- tradus -> o factory este o clasa care contine o metoda, acea metoda va returna obiectul dorit in functie de parametrul de input primit ca si argument.
+- presupune crearea unui obiect fara expune clientul ( cel care doreste creare obiectului) asupra detaliile crearii , el doar precizeaza parametrul de input si primeste in schimb obiectul
+- deci daca avem o clasa mama care contine N sublcase si dorim crearea unei subclase din cele N pe baza unui criteriu, atunci vom folosi Factory design pattern.

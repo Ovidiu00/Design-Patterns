@@ -1,0 +1,13 @@
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\obj\Debug\netcoreapp3.1\Factory Design.csprojAssemblyReference.cache
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\obj\Debug\netcoreapp3.1\Factory Design.AssemblyInfoInputs.cache
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\obj\Debug\netcoreapp3.1\Factory Design.AssemblyInfo.cs
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\obj\Debug\netcoreapp3.1\Factory Design.csproj.CoreCompileInputs.cache
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\bin\Debug\netcoreapp3.1\Factory Design.exe
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\bin\Debug\netcoreapp3.1\Factory Design.deps.json
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\bin\Debug\netcoreapp3.1\Factory Design.runtimeconfig.json
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\bin\Debug\netcoreapp3.1\Factory Design.runtimeconfig.dev.json
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\bin\Debug\netcoreapp3.1\Factory Design.dll
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\bin\Debug\netcoreapp3.1\Factory Design.pdb
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\obj\Debug\netcoreapp3.1\Factory Design.dll
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\obj\Debug\netcoreapp3.1\Factory Design.pdb
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Design\Factory Design\Factory Design\obj\Debug\netcoreapp3.1\Factory Design.genruntimeconfig.cache
