@@ -2,3 +2,13 @@
 - tradus -> o factory este o clasa care contine o metoda, acea metoda va returna obiectul dorit in functie de parametrul de input primit ca si argument.
 - presupune crearea unui obiect fara expune clientul ( cel care doreste creare obiectului) asupra detaliile crearii , el doar precizeaza parametrul de input si primeste in schimb obiectul
 - deci daca avem o clasa mama care contine N sublcase si dorim crearea unei subclase din cele N pe baza unui criteriu, atunci vom folosi Factory design pattern.
+
+
+Cand folosim? 
+ cand dorim sa facem o legautra libera intre client si produs
+ cand dorim sa creeam un anumit obiect in fucntie de un input
+
+Dezavantaje
+
+ daca dorim sa adaugam un nou product , trebuie adaugat un if else in metoda GetProduct in Factory - fapt care violeaza open/closed design principle
+ avem o legatura stransa intre Factory si clasele product

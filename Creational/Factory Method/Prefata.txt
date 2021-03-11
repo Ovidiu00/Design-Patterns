@@ -1,0 +1,1 @@
+Defineste o clasa abstracta pentru crearea unui obiect , insa lasa subclasele sa decida ce clasa sa instantieze

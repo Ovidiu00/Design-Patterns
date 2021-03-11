@@ -1,0 +1,13 @@
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Factory Method.exe
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Factory Method.deps.json
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Factory Method.runtimeconfig.json
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Factory Method.runtimeconfig.dev.json
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Factory Method.dll
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Factory Method.pdb
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Factory Method.csprojAssemblyReference.cache
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Factory Method.AssemblyInfoInputs.cache
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Factory Method.AssemblyInfo.cs
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Factory Method.dll
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Factory Method.pdb
+C:\Users\40752\Documents\GitHub\Design-Patterns\Creational\Factory Method\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Factory Method.genruntimeconfig.cache
