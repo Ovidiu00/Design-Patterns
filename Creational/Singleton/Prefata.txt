@@ -1,17 +1,14 @@
-- o clasa statica care se ocupa de modul in care se initializeaza instanta respectiva, asigura ca o singura instanta este folosit pe parcursul intregului program si 
-- clasa este sealed, nu se poate mosteni , nu se poate folosi dependency injection pt ca 
+- o clasa statica care se ocupa de modul in care se initializeaza instanta respectiva, asigura ca o singura instanta este folosit pe parcursul intregului program 
+- clasa este sealed, nu se poate mosteni 
 - ofera acces global fiind statica
 - nu permite initializarea cu new fiindca constructorul este privat
 - o proprietate statica care sa obtina instanta respectiva
- - de ce sealed? 
- pai daca nu am folosi sealed si incercam sa mostenim o clasa , vom primi o eroare fiindca clasa are constructor private, dar daca declaram clasa ca fiind nested atunci
-se va apela de 2 ori constructorul singleton
 
 
 
 Metode de implementare :
 
--Thread-Safety Singleton implementation - in cazul inc are mai mutle threaduri incearca sa acceseze isntanta , se va serializa si se  va obtine aceasi isntanta
+-Thread-Safety Singleton implementation - in cazul in care mai mutle threaduri incearca sa acceseze instanta , se va serializa si se  va obtine aceasi instanta,
  se face prin doublechecking locking sau prin folosirea cuvantului cheie Lazy
-- eager , se creeaza la inceputu loadingului clase si se acceseeaza cand se are chef,
+- eager , se creeaza la inceputu loadingului  si se acceseeaza cand se are chef,
 - lazy , se creeaza doar atunci cand este nevoie , lazy trebuie folosit daca obiectul este greoi de creeat sau daca este nevoie rara de el
